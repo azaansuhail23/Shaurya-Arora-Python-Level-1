@@ -77,7 +77,7 @@ What is the result of `10 + 2 * 3`?
 12. What is the result of `9 // 2`?
 
 * A) 3
-* B) 4
+* B) 4 ✅
 * C) 4.5
 * D) 5
 
@@ -85,54 +85,19 @@ What is the result of `10 + 2 * 3`?
 
 * A) 4
 * B) 5
-* C) 6
+* C) 6 ✅
 * D) 10
 
 14. What is the result of `4 * 3 / 2`?
 
 * A) 4.0
 * B) 5.0
-* C) 6.0
+* C) 6.0 ❌
 * D) 12.0
-
-15. What is the result of `2 + 3 ** 2`?
-
-* A) 10
-* B) 11
-* C) 25
-* D) 13
 
 16. Which operator gives the **remainder** after division in Python?
 
-* A) `%`
+* A) `%` ✅
 * B) `//`
 * C) `/`
 * D) `**`
-
-17. What is the result of `7 * (2 + 3)`?
-
-* A) 17
-* B) 25
-* C) 35
-* D) 42
-
-18. What is the result of `18 / 3 + 2`?
-
-* A) 6.0
-* B) 7.0
-* C) 8.0
-* D) 10.0
-
-19. What is the result of `20 - 6 // 2`?
-
-* A) 7
-* B) 17
-* C) 14
-* D) 10
-
-20. What is the result of `2 ** 3 + 4 * 2`?
-
-* A) 16
-* B) 18
-* C) 20
-* D) 24
