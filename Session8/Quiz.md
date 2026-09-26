@@ -67,18 +67,22 @@ C) Only two items
 
 Q9. What will this code print?
 
-```
-games = ["Chess", "Cricket", "Football"]print(len(games))
+```Python
+games = ["Chess", "Cricket", "Football"]
+
+print(len(games))
 ```
 
 A) 2
-B) 3
+B) 3 ✅
 C) 4
 
 Q10. What will this code print?
 
-```
-animals = ["Dog", "Cat", "Rabbit"]print(animals[1])
+```Python
+animals = ["Dog", "Cat", "Rabbit"]
+
+print(animals[1])
 ```
 
 A) Dog
